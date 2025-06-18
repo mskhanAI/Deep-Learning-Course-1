@@ -1,1 +1,1 @@
-# Deep-Learning-Course-1
+# Deep-Learning-Courses
